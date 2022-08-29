@@ -1,5 +1,9 @@
 [book]
-authors = []
+tite = "Unity"
+authors = ["Thomas O Fredericks"]
 language = "fr"
 multilingual = false
 src = "src"
+
+[build]
+build-dir = "docs"
