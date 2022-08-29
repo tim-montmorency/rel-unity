@@ -1,3 +1,3 @@
 # Sommaire
 
-- [Installation](./installation.md)
+- [Installation et licence](./installation.md)

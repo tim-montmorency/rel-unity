@@ -45,3 +45,18 @@ Le démarrage de Visual Studio devrait commencer immédiatement après l'install
 Si lors de l'installation de Unity Editor vous avez oublié d'installer des options ou des paquets (comme Visual Studio Community), vous pouvez la modifier en cliquant sur engrenage.
 
 ![Modification d'une installation précédente](installation_unity_hub_modifier_unity_engine.svg)
+
+# Activation de licence
+
+## Se connecter à son compte Unity
+
+![Connexion à som compte Unity](installation_unity_hub_connexion.svg)
+
+## Ouvrir le menu du compte
+
+![Ouvir le menu du compte](installation_unity_hub_menu_compte.svg)
+
+## Ajouter une licence
+
+![Activation d'une licence personnelle](installation_unity_hub_licence.svg)
+
