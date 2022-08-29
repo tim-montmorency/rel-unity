@@ -1,0 +1,3 @@
+# Sommaire
+
+- [Installation](./installation.md)
