@@ -3,7 +3,7 @@ tite = "Unity"
 authors = ["Thomas O Fredericks"]
 language = "fr"
 multilingual = false
-src = "src"
+src = "rel-unity-src"
 
 [build]
 build-dir = "docs"
