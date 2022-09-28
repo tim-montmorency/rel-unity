@@ -1,4 +1,4 @@
-# Animer et déssactiver un objet ramassé
+# Animer et désactiver un objet ramassé
 
 ![Créer un 'prefab' de l'objet à ramasser](./animer_desactiver_objet_ramasse/creer_prefab_de_cle.svg)
 
