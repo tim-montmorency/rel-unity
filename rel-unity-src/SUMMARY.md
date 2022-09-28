@@ -6,5 +6,6 @@
 - [Compter nombre d'objets ramassés](./compter_objets_ramasses.md)
 - [Désactiver le code du personnage](./desactiver_personnage.md)
 - [Désactiver des éléments lorsque le joueur perd](./desactiver_joueur_perd.md)
+- [Particules en 2D](./particules_2d.md)
 - [Exporter un projet](./exporter.md)
 
