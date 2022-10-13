@@ -34,7 +34,7 @@
 
 ![Ajoutez le code sur le bouton Start](./Diapositive19.SVG)
 
-![Ajoutez les deux scènes au «Build» dans le bon ordre!](./Diapositive21.SVG)
+![Ajoutez les deux scènes au «Build» dans le bon ordre!](./Diapositive21.svg)
 
 ![Ajoutez le code sur le bouton Start](./Diapositive20.SVG)
 
