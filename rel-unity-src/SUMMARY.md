@@ -10,7 +10,8 @@
 # Effets 2D
 - [Particules en 2D](./particules_2d.md)
 # Interfaces utilisateurs
-- [Interface utilisateur: écran introduction](./2d_ui_intro/2d_ui_intro.md)
+- [Écran titre](./2d_ui_ecran_titre/2d_ui_ecran_titre.md)
+- [Menu lorsque le joueur perd](./2d_ui_menu_perdu/2d_ui_menu_perdu.md)
 # Finaliser projet
 - [Exporter un projet](./exporter/exporter.md)
 
