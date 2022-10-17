@@ -6,5 +6,6 @@
 
 ![Nous ajoutons le tag «Door» au GameObject de la porte (qui doit être en mode «Is Trigger»)](./Diapositive3.SVG)
 
-![Voici comment déclencher du code lorsque toutes les clés ont été ramassées et que le personnage entre en Trigger avec la porte](./Diapositive4.SVG)
+![Trigger avec le tag «Door» et validation du nombre de clés ramassées](./Diapositive4.SVG)
 
+![Rappel sur comment démasquer un panneau](./script_graph_afficher_panneau_victoire.svg)
