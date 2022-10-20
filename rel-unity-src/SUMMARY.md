@@ -5,6 +5,10 @@
 - [Démarrer un projet 2D](./demarrer_projet_2d.md)
 - [Animer (désactiver et détuire) un objet ramassé](./animer_desactiver_objet_ramasse.md)
 - [Compter nombre d'objets ramassés](./compter_objets_ramasses.md)
+# Contrôle du personnage
+- [Double saut](./double_saut/double_saut.md)
+- [Invincibilité temporaire](./rendre_invincible/rendre_invincible.md)
+# Lorsque le joueur perd
 - [Désactiver le code du personnage (lorsque le joueur perd)](./desactiver_personnage.md)
 - [Désactiver n'importe quel GameObject lorsque le joueur perd](./desactiver_joueur_perd.md)
 # Effets 2D
@@ -12,6 +16,7 @@
 # Interfaces utilisateurs
 - [Écran titre](./2d_ui_ecran_titre/2d_ui_ecran_titre.md)
 - [Afficher un menu lorsque le joueur perd](./2d_ui_menu_perdu/2d_ui_menu_perdu.md)
+- [Afficher la valeur d'une variable](./affichage_variable/affichage_variable.md)
 - [Détecter lorsque le personnage entre en Trigger avec la porte](./2d_trigger_porte/2d_trigger_porte.md)
 # Finaliser projet
 - [Exporter un projet](./exporter/exporter.md)

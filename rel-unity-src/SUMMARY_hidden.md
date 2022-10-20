@@ -1,7 +1,0 @@
-- [Importer des sprites](./importer_sprites.md)
-- [Ordre des éléments 2D](./ordre_elements_2d.md)
-- [Colliders et Rigibody 2D](./colliders_et_rigibody_2D.md)
-- [Contrôler le personnage 2D](./cotroler_personnage_2D.md)
-- [Changer la direction d'un sprite](./direction_sprite.md)
-- [Intégrer le saut du personnage 2D](./saut_2d.md)
-- [Créer animaton de sprite](./animation_sprite.md)
