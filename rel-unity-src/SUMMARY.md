@@ -24,15 +24,18 @@
 - [Démarrer un projet HDRP](./hdrp/hdrp.md)
 - [Importer un modèle Maya]()
 # Intégration avec GitHub
-- [GitHub](./github/github.md)
+- [GitHub]()
 # Casque Quest
-- [Introduction au casque Quest](./quest_introduction/quest_introduction.md) 
-- [Mise en mirroir: «casting»](./quest_cast/quest_cast.md)
-- [«Link»](./quest_link/quest_link.md)
+- [Introduction au casque Quest](./quest_introduction/quest_introduction.md)
+- [Mise en mirroir: «casting»]()
+- [«Link/Rift»](./quest_link/quest_link.md)
 # Unity XR
 - [Ajouter XR à un projet HDRP](./xr_introduction/xr_introduction.md)
-- [«XR Interaction Toolkit»]()
-- [Interaction simple]()
+- [Créer une scène XR HDRP](./xr_scene/xr_scene.md)
+- [Locomotion XR](./xr_locomotion/xr_locomotion.md)
+- [Interaction XR simple]()
+- [Douilles (Sockets) XR](./xr_douille/xr_douille.md)
+- [Mains modélisés et animées en XR](./xr_mains/xr_mains.md)
 # Interface utilisateur en XR
 - [XRUI «World Space»]()
 - [XRUI attrapable]()

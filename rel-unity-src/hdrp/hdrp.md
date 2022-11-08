@@ -1,5 +1,6 @@
 # Démarrer un projet HDRP
 
+![Créer un nouveau projet HDRP dans Unity Hub](nouveau_projet_hdrp.png)
 
 ## Vidéos
 
