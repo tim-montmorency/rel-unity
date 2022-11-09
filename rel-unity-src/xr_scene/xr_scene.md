@@ -1,5 +1,9 @@
 # Créer une scène XR HDRP
 
+## Préalables
+
+Avant de commencer, assurez-vous que vous avez suivie les instructions de la section [Support XR en HDRP](./xr_introduction/xr_introduction.md).
+
 ## «Action Based» ou «Device Based»
 
 Il existe souvent 2 versions (ou plus) des Scripts ou Components pour la XR. En cas de doute, choisissez la version «Action Based».
@@ -19,3 +23,7 @@ Il existe souvent 2 versions (ou plus) des Scripts ou Components pour la XR. En 
 ## XRI Default Input Actions
 
 ![Ajoutez un Component «Input Action Manager» au «XR Origin» et glissez-y le «XRI Default Input Actions»](./Diapositive3.svg)
+
+## Prefab XR
+
+![Ajoutez le «XR Origin» et le «XR Interaction Mangager» à un nouvel GameObjet nommé «XR Player» et convertissez le en Prefab](./Diapositive5.svg)

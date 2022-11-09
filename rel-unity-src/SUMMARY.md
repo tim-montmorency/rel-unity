@@ -22,23 +22,27 @@
 - [«Build»](./exporter/exporter.md)
 # HDRP
 - [Démarrer un projet HDRP](./hdrp/hdrp.md)
-- [Importer un modèle Maya]()
+- [Importer un modèle Maya](./hdrp_maya/hdrp_maya.md)
+- [Contrôleur de personnage (FPS, Third Person)](./3d_controleur_personnage/3d_controleur_personnage.md)
 # Intégration avec GitHub
 - [GitHub]()
 # Casque Quest
 - [Introduction au casque Quest](./quest_introduction/quest_introduction.md)
 - [Mise en mirroir: «casting»]()
 - [«Link/Rift»](./quest_link/quest_link.md)
-# Unity XR
-- [Ajouter XR à un projet HDRP](./xr_introduction/xr_introduction.md)
+# Introduction à XR
+- [Support XR en HDRP](./xr_introduction/xr_introduction.md)
 - [Créer une scène XR HDRP](./xr_scene/xr_scene.md)
 - [Locomotion XR](./xr_locomotion/xr_locomotion.md)
-- [Interaction XR simple]()
+- [Détection du casque](./xr_detection/xr_detection.md)
+# Interaction XR
+- [Objets attrapables(Grabbable)](./xr_attraper/xr_attraper.md)
 - [Douilles (Sockets) XR](./xr_douille/xr_douille.md)
 - [Mains modélisés et animées en XR](./xr_mains/xr_mains.md)
-# Interface utilisateur en XR
-- [XRUI «World Space»]()
-- [XRUI attrapable]()
+- [Bouton XR](./xr_button/xr_button.md)
+# Interface utilisateur(UI) en XR
+- [XR UI «World Space»](./xr_ui_world_space/xr_ui_world_space.md)
+- [XR UI attrapable](./xr_ui_attraper/xr_ui_attraper.md)
 # Effets HDRP
 - [Particules en HDRP](./particules_hdrp/particules_hdrp.md)
 # Vidéo 360 3D

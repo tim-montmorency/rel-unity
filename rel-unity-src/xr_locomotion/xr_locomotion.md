@@ -1,10 +1,16 @@
 # Locomotion en XR
 
-## Locomotion continue avec la manette de la main gauche
+## Désactivation de la rotation des objets tenus
 
 ![Désactivez la rotation des objets tenus par la manette](./Diapositive1.svg)
 
+## Locomotion continue avec la manette de la main gauche
+
 ![Ajoutez et configurez les 4 Components indiqués](./Diapositive2.svg)
+
+## «Ground Plane»
+
+![Ajoutez un Plane pour servir de sol et testez ensuite la locomotion!](./Diapositive3.svg)
 
 ## Vidéos complémentaires
 
@@ -23,3 +29,8 @@
 ### Gorilla Tag
 
 * [Make Gorilla Tag Movement in Unity VR - YouTube](https://www.youtube.com/watch?v=5D2bN7xL5us&t=752s)
+
+### Téléportation
+
+* [How to Teleport in Unity VR with XR Interaction Toolkit - YouTube](https://www.youtube.com/watch?v=cxRnK8aIUSI)
+* [Part 6: Teleportation in VR - How to Make a VR Game - YouTube](https://www.youtube.com/watch?v=XbCa9fIce6w)
