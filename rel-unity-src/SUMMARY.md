@@ -34,10 +34,9 @@
 - [Support XR](./xr_introduction/xr_introduction.md)
 - [Créer une scène XR](./xr_scene/xr_scene.md)
 # Interaction XR
-- [Objets attrapables(Grabbable)](./xr_attraper/xr_attraper.md)
+- [Objets attrapables (Grabbable)](./xr_attraper/xr_attraper.md)
 - [Douilles (Sockets) XR](./xr_douille/xr_douille.md)
-- [Mains modélisés et animées en XR](./xr_mains/xr_mains.md)
-- [Bouton XR](./xr_button/xr_button.md)
+- [Boutons 3D XR](./xr_button/xr_button.md)
 # Locomotion XR
 - [Locomotion de base avec les manettes de pouce](./xr_locomotion/xr_locomotion.md)
 	- [Ajouter le saut à la locomotion de base](./xr_locomotion_saut/xr_locomotion_saut.md)
@@ -49,6 +48,7 @@
 - [XR UI attrapable](./xr_ui_attraper/xr_ui_attraper.md)
 # XR Avancé
 - [Détection du casque](./xr_detection/xr_detection.md)
+- [Mains modélisés et animées en XR](./xr_mains/xr_mains.md)
 # Effets HDRP
 - [Particules en HDRP](./particules_hdrp/particules_hdrp.md)
 # Vidéo 360 3D
