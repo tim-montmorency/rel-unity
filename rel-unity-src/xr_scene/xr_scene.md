@@ -27,3 +27,7 @@ Il existe souvent 2 versions (ou plus) des Scripts ou Components pour la XR. En 
 ## Prefab XR
 
 ![Ajoutez le «XR Origin» et le «XR Interaction Mangager» à un nouvel GameObjet nommé «XR Player» et convertissez le en Prefab](./Diapositive5.SVG)
+
+## Vidéo complémentaire
+
+[How to Make VR Games in 2022 - Updated Unity VR Tutorial - YouTube](https://www.youtube.com/watch?v=yxMzAw2Sg5w)

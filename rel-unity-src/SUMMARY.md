@@ -30,9 +30,9 @@
 - [Introduction au casque Quest](./quest_introduction/quest_introduction.md)
 - [Mise en mirroir: «casting»]()
 - [«Link/Rift»](./quest_link/quest_link.md)
-# Introduction à XR
-- [Support XR en HDRP](./xr_introduction/xr_introduction.md)
-- [Créer une scène XR HDRP](./xr_scene/xr_scene.md)
+# Introduction à XR HDRP
+- [Support XR](./xr_introduction/xr_introduction.md)
+- [Créer une scène XR](./xr_scene/xr_scene.md)
 # Interaction XR
 - [Objets attrapables(Grabbable)](./xr_attraper/xr_attraper.md)
 - [Douilles (Sockets) XR](./xr_douille/xr_douille.md)

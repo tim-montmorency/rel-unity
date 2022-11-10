@@ -28,4 +28,7 @@ Avant de commencer, assurez-vous de [démarrer un projet HDRP](../hdrp/hdrp.md).
 
 ![Dans le «Preset Manager» identifiez la manette de gauche et de droite avec les mots clés en anglais indiqués](./Diapositive7.SVG)
 
+## Vidéo complémentaire
+
+[How to Make VR Games in 2022 - Updated Unity VR Tutorial - YouTube](https://www.youtube.com/watch?v=yxMzAw2Sg5w)
 
