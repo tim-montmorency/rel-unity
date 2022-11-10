@@ -34,7 +34,6 @@
 - [Support XR en HDRP](./xr_introduction/xr_introduction.md)
 - [Créer une scène XR HDRP](./xr_scene/xr_scene.md)
 - [Locomotion XR](./xr_locomotion/xr_locomotion.md)
-- [Détection du casque](./xr_detection/xr_detection.md)
 # Interaction XR
 - [Objets attrapables(Grabbable)](./xr_attraper/xr_attraper.md)
 - [Douilles (Sockets) XR](./xr_douille/xr_douille.md)
@@ -43,6 +42,8 @@
 # Interface utilisateur(UI) en XR
 - [XR UI «World Space»](./xr_ui_world_space/xr_ui_world_space.md)
 - [XR UI attrapable](./xr_ui_attraper/xr_ui_attraper.md)
+# XR Avancé
+- [Détection du casque](./xr_detection/xr_detection.md)
 # Effets HDRP
 - [Particules en HDRP](./particules_hdrp/particules_hdrp.md)
 # Vidéo 360 3D
