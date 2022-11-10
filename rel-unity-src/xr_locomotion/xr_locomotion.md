@@ -2,15 +2,15 @@
 
 ## Désactivation de la rotation des objets tenus
 
-![Désactivez la rotation des objets tenus par la manette](./Diapositive1.svg)
+![Désactivez la rotation des objets tenus par la manette](./Diapositive1.SVG)
 
 ## Locomotion continue avec la manette de la main gauche
 
-![Ajoutez et configurez les 4 Components indiqués](./Diapositive2.svg)
+![Ajoutez et configurez les 4 Components indiqués](./Diapositive2.SVG)
 
 ## «Ground Plane»
 
-![Ajoutez un Plane pour servir de sol et testez ensuite la locomotion!](./Diapositive3.svg)
+![Ajoutez un Plane pour servir de sol et testez ensuite la locomotion!](./Diapositive3.SVG)
 
 ## Vidéos complémentaires
 

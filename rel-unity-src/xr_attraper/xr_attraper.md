@@ -2,11 +2,11 @@
 
 ## Ajouter un objet à attraper
 
-![Ajoutez un cube](./Diapositive1.svg)
+![Ajoutez un cube](./Diapositive1.SVG)
 
 ## Script «XR Grab Interactable»
 
-![Ajoutez le script «XR Grab Interactable» (un Component RigidBody sera automatiquement ajouté)](./Diapositive2.svg)
+![Ajoutez le script «XR Grab Interactable» (un Component RigidBody sera automatiquement ajouté)](./Diapositive2.SVG)
 
 ## Vidéo complémentaire
 

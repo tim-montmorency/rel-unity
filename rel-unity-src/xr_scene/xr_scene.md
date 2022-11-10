@@ -10,20 +10,20 @@ Il existe souvent 2 versions (ou plus) des Scripts ou Components pour la XR. En 
 
 ## Nouvelle scène
 
-![Créez une nouvelle scène HDRP (de nuit ou de jour)](./Diapositive4.svg)
+![Créez une nouvelle scène HDRP (de nuit ou de jour)](./Diapositive4.SVG)
 
 ## «Sky and Fog Volume» et «Motion Blur» 
 
-![Ajoutez l'«Override» «Motion Blur» et activez son intensité à 0 pour désactiver le «Motion Blur»](./Diapositive1.svg)
+![Ajoutez l'«Override» «Motion Blur» et activez son intensité à 0 pour désactiver le «Motion Blur»](./Diapositive1.SVG)
 
 ## XR Origin
 
-![À l'aide d'un clic droit sur la caméra, la convertir en «XR Origin (Action-based)» ce qui devrait aussi ajouter un «XR Interaction Manager»](./Diapositive2.svg)
+![À l'aide d'un clic droit sur la caméra, la convertir en «XR Origin (Action-based)» ce qui devrait aussi ajouter un «XR Interaction Manager»](./Diapositive2.SVG)
 
 ## XRI Default Input Actions
 
-![Ajoutez un Component «Input Action Manager» au «XR Origin» et glissez-y le «XRI Default Input Actions»](./Diapositive3.svg)
+![Ajoutez un Component «Input Action Manager» au «XR Origin» et glissez-y le «XRI Default Input Actions»](./Diapositive3.SVG)
 
 ## Prefab XR
 
-![Ajoutez le «XR Origin» et le «XR Interaction Mangager» à un nouvel GameObjet nommé «XR Player» et convertissez le en Prefab](./Diapositive5.svg)
+![Ajoutez le «XR Origin» et le «XR Interaction Mangager» à un nouvel GameObjet nommé «XR Player» et convertissez le en Prefab](./Diapositive5.SVG)
