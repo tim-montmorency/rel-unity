@@ -22,7 +22,14 @@ Il existe souvent 2 versions (ou plus) des Scripts ou Components pour la XR. En 
 
 ## XRI Default Input Actions
 
-![Ajoutez un Component «Input Action Manager» au «XR Origin» et glissez-y le «XRI Default Input Actions»](./Diapositive3.SVG)
+![S'il n'est pas présent, ajoutez un Component «Input Action Manager» au «XR Origin». Ensuite glissez-y le «XRI Default Input Actions»](./Diapositive3.SVG)
+
+## Validation de la configuration des contrôleurs
+
+
+![Vérifiez que le script XR Controller de la manette de gauche a été automatiquement rempli. Sinon, utilisez le bouton de Preset pour le remplir avec la configuration de la manette de gauche](./Diapositive6.SVG)
+
+![Vérifiez que le script XR Controller de la manette de droite a été automatiquement rempli. Sinon, utilisez le bouton de Preset pour le remplir avec la configuration de la manette de droite](./Diapositive7.SVG)
 
 ## Prefab XR
 
