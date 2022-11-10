@@ -33,12 +33,17 @@
 # Introduction à XR
 - [Support XR en HDRP](./xr_introduction/xr_introduction.md)
 - [Créer une scène XR HDRP](./xr_scene/xr_scene.md)
-- [Locomotion XR](./xr_locomotion/xr_locomotion.md)
 # Interaction XR
 - [Objets attrapables(Grabbable)](./xr_attraper/xr_attraper.md)
 - [Douilles (Sockets) XR](./xr_douille/xr_douille.md)
 - [Mains modélisés et animées en XR](./xr_mains/xr_mains.md)
 - [Bouton XR](./xr_button/xr_button.md)
+# Locomotion XR
+- [Locomotion de base avec les manettes de pouce](./xr_locomotion/xr_locomotion.md)
+	- [Ajouter le saut à la locomotion de base](./xr_locomotion_saut/xr_locomotion_saut.md)
+- [Téléportation](./xr_locomotion_teleportation/xr_locomotion_teleportation.md)	
+- [Nage](./xr_locomotion_nage/xr_locomotion_nage.md)
+- [Gorille](./xr_locomotion_gorille/xr_locomotion_gorille.md)
 # Interface utilisateur(UI) en XR
 - [XR UI «World Space»](./xr_ui_world_space/xr_ui_world_space.md)
 - [XR UI attrapable](./xr_ui_attraper/xr_ui_attraper.md)
