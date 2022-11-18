@@ -8,6 +8,10 @@
 
 ![Ajoutez et configurez les 4 Components indiqués](./Diapositive2.SVG)
 
+## «Snap Turn» de la caméra avec la manette de la main droite
+
+![Ajoutez le component «Snap Turn Provider»](./xr_ajout_component_snap_turn_provider.svg)
+
 ## «Ground Plane»
 
 ![Ajoutez un Plane pour servir de sol et testez ensuite la locomotion!](./Diapositive3.SVG)
