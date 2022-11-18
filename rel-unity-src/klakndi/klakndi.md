@@ -2,9 +2,9 @@
 
 KlakNDI permet d'envoyer l'image de la scène, de la caméra ou d'une texture par NDI.
 
-## Installation dans Unity
+## Importer dans Unity
 
-Pour installer [KlakNDI](https://github.com/keijiro/KlakNDI) de Keijiro nous evons l'ajouter dans la liste de paquets.
+Pour importer [KlakNDI](https://github.com/keijiro/KlakNDI) de Keijiro nous devons l'ajouter dans la liste de paquets.
 
 Voici l'information à inscrire dans les paramètres du gestionnaire de paquets (voir figure ci-bas) :
 * Name: `Keijiro`
@@ -19,9 +19,9 @@ Voici l'information à inscrire dans les paramètres du gestionnaire de paquets 
 
 ## Configuration de la Game Window
 
-La «Game Window» doit toujours être visible si vous voulez que le flux NDI soit mise à jour. Si elle est cachée, le flux NDI sera pausé. Il est donc recommandé de :
-* Détachez la fenêtre «Game Window»
-* Vérouillez la résolution de la «Game Window»
+La «Game Window» doit toujours être visible pour que le flux NDI soit mise à jour. Si elle est cachée, le flux NDI sera pausé. Il est donc recommandé de :
+* Détacher la fenêtre «Game Window»
+* Vérouiller la résolution de la «Game Window»
 
 ![Détachez la «Game Window» et vérouillez sa résolution](./klakndi_game_window.svg)
 
