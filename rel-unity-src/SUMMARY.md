@@ -54,5 +54,7 @@
 # Vidéo 360 3D
 - [Caméra Vuze+]()
 - [Lecteur vidéo 360 3D «legacy XR»]()
-# Bible
+# Varia
 - [KlakNDI de Keijiro](./klakndi/klakndi.md)
+- [Mappage de données](./map/map.md)
+- [Vitesse d'un son selon la proximité](./freq_son_proximite/freq_son_proximite.md)
