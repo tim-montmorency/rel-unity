@@ -58,3 +58,4 @@
 - [KlakNDI de Keijiro](./klakndi/klakndi.md)
 - [Mappage de données](./map/map.md)
 - [Vitesse d'un son selon la proximité](./freq_son_proximite/freq_son_proximite.md)
+- [Allumer une lumière selon un «Trigger»](./lumiere_trigger/lumiere_trigger.md)
