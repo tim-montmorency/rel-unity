@@ -27,4 +27,6 @@
 
  ![Script Graph pour sauter](./ajouter_script_graph.svg)
 
+ ![Remarquez que c'est l'action «Jump» du «XRI Default Input Actions» qui est identifiée](./selectionner_jump_input_action.svg)
+
 ![](../pet.png)

@@ -39,7 +39,7 @@
 - [Boutons 3D XR](./xr_button/xr_button.md)
 # Locomotion XR
 - [Locomotion de base avec les manettes de pouce](./xr_locomotion/xr_locomotion.md)
-	- [Ajouter le saut à la locomotion de base](./xr_locomotion_saut/xr_locomotion_saut.md)
+	- [Ajouter le saut](./xr_locomotion_saut/xr_locomotion_saut.md)
 - [Téléportation](./xr_locomotion_teleportation/xr_locomotion_teleportation.md)	
 - [Nage](./xr_locomotion_nage/xr_locomotion_nage.md)
 - [Gorille](./xr_locomotion_gorille/xr_locomotion_gorille.md)
