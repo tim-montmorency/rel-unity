@@ -2,4 +2,4 @@
 
 ## Vidéos
 
-[capsules-video-maya2023 réalisées par Charlène](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/tofredericks_cmontmorency_qc_ca/Em70hFE7qaRDnVsjPaujN8cBqq_3uKscG9VWmLz8ph1Aug?e=69uRzc)
+Capsules vidéo réalisées par Charlène : [capsules-video-maya2023 ](https://cmontmorency365.sharepoint.com/:f:/s/Charlne/EsjnvYa1Z1dLmdSOS3EvmK8BXQvVDdpVrQ9I6DbGvFHjRA?e=YckYfB)
