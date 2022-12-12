@@ -24,6 +24,7 @@
 - [Démarrer un projet HDRP](./hdrp/hdrp.md)
 - [Importer un modèle Maya](./hdrp_maya/hdrp_maya.md)
 - [Contrôleur de personnage (FPS, Third Person)](./3d_controleur_personnage/3d_controleur_personnage.md)
+- [Réparer les matériaux magenta](./hdrp_magenta/hdrp_magenta.md)
 # Intégration avec GitHub
 - [GitHub]()
 # Casque Quest
@@ -33,6 +34,7 @@
 # Introduction à XR HDRP
 - [Support XR](./xr_introduction/xr_introduction.md)
 - [Créer une scène XR](./xr_scene/xr_scene.md)
+
 # Interaction XR
 - [Objets attrapables (Grabbable)](./xr_attraper/xr_attraper.md)
 - [Douilles (Sockets) XR](./xr_douille/xr_douille.md)
