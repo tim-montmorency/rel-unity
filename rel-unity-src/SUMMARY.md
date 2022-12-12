@@ -34,7 +34,6 @@
 # Introduction à XR HDRP
 - [Support XR](./xr_introduction/xr_introduction.md)
 - [Créer une scène XR](./xr_scene/xr_scene.md)
-
 # Interaction XR
 - [Objets attrapables (Grabbable)](./xr_attraper/xr_attraper.md)
 - [Douilles (Sockets) XR](./xr_douille/xr_douille.md)
@@ -46,6 +45,7 @@
 - [Nage](./xr_locomotion_nage/xr_locomotion_nage.md)
 - [Gorille](./xr_locomotion_gorille/xr_locomotion_gorille.md)
 # Interface utilisateur(UI) en XR
+- [Importation d'images pour UI en 3D](./ui_importation_image/ui_importation_image.md)
 - [XR UI «World Space»](./xr_ui_world_space/xr_ui_world_space.md)
 - [XR UI attrapable](./xr_ui_attraper/xr_ui_attraper.md)
 # XR Avancé
