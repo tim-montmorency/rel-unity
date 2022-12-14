@@ -11,6 +11,9 @@
 # Lorsque le joueur perd
 - [Désactiver le code du personnage (lorsque le joueur perd)](./desactiver_personnage.md)
 - [Désactiver n'importe quel GameObject lorsque le joueur perd](./desactiver_joueur_perd.md)
+# Audio
+- [Sons 3D](./audio_3d/audio_3d.md)
+- [Déclencher un son](./audio_declencher/audio_declencher.md)
 # Effets 2D
 - [Particules en 2D](./particules_2d.md)
 # Interface utilisateur
